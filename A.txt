@@ -1,1 +1,3 @@
 Some text for A
+
+Some features via GitHub. All your rebase are belong to us.
