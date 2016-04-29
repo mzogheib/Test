@@ -3,3 +3,5 @@ More Text for B
 Some new features for B.
 
 Even more features.
+
+Adding some things related to issue #1
